@@ -735,10 +735,6 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
-}
-
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -1045,4 +1041,28 @@ h4 {
 
 p {
     font-size: 1.6rem;
+}
+
+.black {
+    color: black!important;
+}
+
+.social > .icon-md {
+    color: black!important;
+
+}
+
+.social_column {
+    display: flex;
+    flex-direction: column;
+    color: black!important;
+    row-gap: 5px;
+}
+
+.social_column:hover {
+    color: white!important;
+}
+
+.social:hover > .icon-md {
+    color: white!important;
 }
