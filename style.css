@@ -1043,6 +1043,11 @@ p {
     font-size: 1.6rem;
 }
 
+.portfolio-thumb {
+    width: 720px;
+    height: auto;
+}
+
 .black {
     color: black!important;
 }
