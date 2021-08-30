@@ -735,6 +735,10 @@ h4 {
     margin-top: 24px;
 }
 
+.white {
+    color: #FFFFFF!important;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -1039,6 +1043,27 @@ h4 {
 
 /*************** Custom *****************/
 
+#bloc-7 {
+    background-color: rgba(25, 25, 25, .75);
+    width: auto;
+    padding: 1rem;
+    margin: 4rem;
+}
+
+#bloc-7 > .container {
+    width: 100%;
+    padding: 2rem;
+}
+
+.form-container > h3 {
+    color: white!important;
+}
+
+.form-container > #form_1 > .form-group > label,
+.form-container > p {
+    color: white!important;
+}
+
 p {
     font-size: 1.6rem;
 }
@@ -1071,3 +1096,5 @@ p {
 .social:hover > .icon-md {
     color: white!important;
 }
+
+
