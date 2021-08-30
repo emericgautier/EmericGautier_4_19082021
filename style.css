@@ -1043,6 +1043,11 @@ h4 {
 
 /*************** Custom *****************/
 
+#logo {
+    width: 214px;
+    height: 40px;
+}
+
 #bloc-7 {
     background-color: rgba(25, 25, 25, .75);
     width: auto;
